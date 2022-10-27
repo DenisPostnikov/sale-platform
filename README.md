@@ -20,7 +20,7 @@
   1. Clone this repository <br>
   2. Find in the project <strong>${Your IP address}</strong> and replace on your ip address <br>
   2. Open cmd/terminal <strong>'cd backend && npm i'</strong> and run command <strong>'node index.js'</strong> <br>
-  3. Then go to <strong>app</strong> folder and run <strong>'expo start'</strong>
+  3. Then go to <strong>app</strong> folder <strong>(npm i)</strong> and run <strong>'expo start'</strong>
 
 
 ## Application features
