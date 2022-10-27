@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "SalePlatform",
+    "slug": "SalePlatform",
+    "description": "An application for selling stuff.",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#e63c4b"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+    },
+    "notification": {
+      "iosDisplayInForeground": true
+    }
+  }
+}
