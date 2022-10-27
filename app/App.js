@@ -5,7 +5,7 @@ import * as SplashScreen from 'expo-splash-screen';
 import AppNavigator from "./navigation/AppNavigator";
 import AuthNavigator from "./navigation/AuthNavigator";
 import navigationTheme from "./navigation/navigationTheme";
-import navigationRef from "./navigation/rootNavigation";
+import { navigationRef } from "./navigation/rootNavigation";
 
 import OfflineNotice from "./components/OfflineNotice";
 
